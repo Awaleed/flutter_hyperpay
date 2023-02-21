@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-part of flutter_hyperpay;
+part of hyperpay;
 
 /// The environment mode for HyperPay, will be global
 /// for the current life of the app.

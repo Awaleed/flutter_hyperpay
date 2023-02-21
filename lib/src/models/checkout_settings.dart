@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-part of flutter_hyperpay;
+part of hyperpay;
 
 /// This class wraps the required params to get a `checkoutID`
 /// from HyperPay **server-to-server**, meaning that these params

@@ -1,4 +1,4 @@
-name: flutter_hyperpay
+name: hyperpay
 description: A new Flutter plugin project.
 version: 0.0.1
 
@@ -22,4 +22,6 @@ flutter:
     platforms:
       android:
         package: com.nyartech.hyperpay
+        pluginClass: HyperpayPlugin
+      ios:
         pluginClass: HyperpayPlugin

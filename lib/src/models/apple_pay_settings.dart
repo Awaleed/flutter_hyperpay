@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-part of flutter_hyperpay;
+part of hyperpay;
 
 /// Required fields for performing a transaction with Apply Pay.
 class ApplePaySettings {

@@ -1,6 +1,6 @@
-# flutter_hyperpay_example
+# hyperpay_example
 
-Demonstrates how to use the flutter_hyperpay plugin.
+Demonstrates how to use the hyperpay plugin.
 
 ## Getting Started
 

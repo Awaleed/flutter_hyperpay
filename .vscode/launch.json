@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_hyperpay",
+            "name": "hyperpay",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "flutter_hyperpay (profile mode)",
+            "name": "hyperpay (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "flutter_hyperpay (release mode)",
+            "name": "hyperpay (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

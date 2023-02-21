@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license
 // that can be found in the LICENSE file.
 
-part of flutter_hyperpay;
+part of hyperpay;
 
 /// Payments can happen either on **Test** or **Live** mode,
 /// each mode has a different set of entity IDs, these are

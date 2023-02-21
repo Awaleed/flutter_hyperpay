@@ -1,4 +1,4 @@
-# flutter_hyperpay
+# hyperpay
 
 A new Flutter plugin project.
 

@@ -1,4 +1,4 @@
-import 'package:flutter_hyperpay/flutter_hyperpay.dart';
+import 'package:hyperpay/hyperpay.dart';
 
 class TestConfig implements HyperpayConfig {
   @override

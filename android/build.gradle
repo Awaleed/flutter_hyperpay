@@ -19,7 +19,7 @@ rootProject.allprojects {
         google()
         mavenCentral()
         flatDir {
-            dirs project(':flutter_hyperpay').file('libs')
+            dirs project(':hyperpay').file('libs')
         }
     }
 }
